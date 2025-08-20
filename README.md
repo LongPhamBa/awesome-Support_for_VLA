@@ -15,6 +15,8 @@
 
 - [2025] Genie 3: A new frontier for world models [project](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 
+- [2025] DeepWiki openvla [project](https://deepwiki.com/openvla/openvla)
+
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model [paper](https://arxiv.org/abs/2406.09246) [project](https://github.com/reazon-research/openvla)
 
 - [2024] TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation [paper](https://arxiv.org/abs/2409.12514) [project](https://tiny-vla.github.io)
@@ -23,8 +25,10 @@
 
 - [2024] DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands [paper](https://dextrah-rgb.github.io) [project](https://dextrah-rgb.github.io)
 
+- [2024] Robosuite: A Modular Simulation Framework and Benchmark for Robot Learning [project](https://robosuite.ai)
+
 - [2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [paper](https://arxiv.org/abs/2307.15818) [project](https://robotics-transformer2.github.io/)
 
-- [–] DeepWiki openvla [project](https://deepwiki.com/openvla/openvla)
+- [2021] CLIP: Connecting text and images [paper](https://arxiv.org/pdf/2103.00020) [project](https://openai.com/index/clip/)
 
-- [–] Robosuite: A Modular Simulation Framework and Benchmark for Robot Learning [project](https://robosuite.ai)
+
