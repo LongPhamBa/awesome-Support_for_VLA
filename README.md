@@ -3,6 +3,8 @@
 
 ## ​ Paper and Project
 
+- [2025] MuJoCo Playground [[paper](https://arxiv.org/pdf/2502.05855)]
+
 - [2025] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control [paper](https://arxiv.org/pdf/2502.05855) [project](https://dex-vla.github.io/)
 
 - [2025] [Nvidia] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [paper](https://arxiv.org/pdf/2503.14734) [project](https://github.com/NVIDIA/Isaac-GR00T)
