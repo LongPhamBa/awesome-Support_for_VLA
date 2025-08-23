@@ -3,7 +3,7 @@
 
 ## ​ Paper and Project
 
-- [2025] MuJoCo Playground [[paper]((https://arxiv.org/pdf/2502.08844))]
+- [2025] MuJoCo Playground [paper]((https://arxiv.org/pdf/2502.08844))
 
 - [2025] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control [paper](https://arxiv.org/pdf/2502.05855) [project](https://dex-vla.github.io/)
 
