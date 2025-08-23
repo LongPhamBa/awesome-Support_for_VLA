@@ -3,6 +3,10 @@
 
 ## ​ Paper and Project
 
+- [2025] Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments [paper](https://arxiv.org/pdf/2506.14233)
+
+- [2025] QUAR-VLA: Vision-Language-Action Model for Quadruped Robots [paper](https://arxiv.org/pdf/2312.14457)
+
 - [2025] MuJoCo Playground [paper](https://arxiv.org/pdf/2502.08844) [project](https://playground.mujoco.org/)
 
 - [2025] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control [paper](https://arxiv.org/pdf/2502.05855) [project](https://dex-vla.github.io/)
@@ -20,6 +24,8 @@
 - [2025] Genie 3: A new frontier for world models [project](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 
 - [2025] DeepWiki openvla [project](https://deepwiki.com/openvla/openvla)
+
+- [2024] Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs [paper](https://arxiv.org/abs/2407.07775)
 
 - [2024] OpenVLA: An Open-Source Vision-Language-Action Model [paper](https://arxiv.org/abs/2406.09246) [project](https://github.com/reazon-research/openvla)
 
