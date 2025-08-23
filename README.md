@@ -1,5 +1,5 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# awesome- Support for VLA
+# awesome - Support for VLA
 
 ## ​ Paper and Project
 
