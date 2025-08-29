@@ -2,7 +2,6 @@
 # awesome - Support for VLA
 
 ## ​ Paper and Project
-
 - [2025] Narrate2Nav: Real-Time Visual Navigation with Implicit Language Reasoning in Human-Centric Environments [paper](https://arxiv.org/pdf/2506.14233)
 
 - [2025] QUAR-VLA: Vision-Language-Action Model for Quadruped Robots [paper](https://arxiv.org/pdf/2312.14457)
@@ -40,5 +39,20 @@
 - [2023] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [paper](https://arxiv.org/abs/2307.15818) [project](https://robotics-transformer2.github.io/)
 
 - [2021] CLIP: Connecting text and images [paper](https://arxiv.org/pdf/2103.00020) [project](https://openai.com/index/clip/)
+
+## Manipulator tasks with VLA collections
+
+- [2025] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [paper](https://arxiv.org/html/2505.03233v1)
+
+- [2024] Language-driven Grasp Detection [paper](https://arxiv.org/pdf/2406.09489) [project](https://airvlab.github.io/grasp-anything)
+
+- [2023] AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains [paper](https://arxiv.org/pdf/2212.08333)
+
+## Collection of public dataset for VLA
+- [2024] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [paper](https://mobile-aloha.github.io/resources/mobile-aloha.pdf) [project](https://mobile-aloha.github.io/) [dataset](https://drive.google.com/drive/folders/1FP5eakcxQrsHyiWBRDsMRvUfSxeykiDc)
+
+- [2023] LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://arxiv.org/pdf/2306.03310) [project](https://libero-project.github.io/main.html) [dataset](https://libero-project.github.io/datasets)
+
+
 
 
