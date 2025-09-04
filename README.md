@@ -53,6 +53,7 @@
 
 - [2023] LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://arxiv.org/pdf/2306.03310) [project](https://libero-project.github.io/main.html) [dataset](https://libero-project.github.io/datasets)
 
-
+## Object simulations
+- [2023] Objaverse-XL: A Universe of 10M+ 3D Objects [paper](https://objaverse.allenai.org/) 
 
 
