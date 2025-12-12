@@ -55,5 +55,8 @@
 
 ## Object simulations
 - [2023] Objaverse-XL: A Universe of 10M+ 3D Objects [paper](https://objaverse.allenai.org/) 
+## Quaternions
+- [2018] Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics [paper](https://arxiv.org/pdf/1705.07115)
 
+- [2016] PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization [paper](https://arxiv.org/pdf/1505.07427)
 
